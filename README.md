@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm me</h1>
-<h3 align="center">(Note: most of my projects are private, so it looks like i have none)</h3>
+<h3 align="center">(Note: most of my projects are private, so it looks like I have none)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=25is&label=Profile%20views&color=0e75b6&style=flat" alt="25is" /> </p>
 
