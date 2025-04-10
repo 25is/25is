@@ -5,9 +5,7 @@
 
 <figure style="display: inline-block; margin-right: 10px;">
   <img src="https://media.tenor.com/vgJ_YNS41-IAAAAM/minecraft-movie-minecraft.gif" alt="I... am STEVE" style="height: 150px;">
-  <figcaption style="text-align: center;">I am Steve</figcaption>
 </figure>
 <figure style="display: inline-block;">
   <img src="https://media.tenor.com/N2Jc-5N6GboAAAAM/they-want-me-to-fight-the-chicken-chicken-jockey-garett-garrison.gif" alt="Chicken Jockey" style="height: 150px;">
-  <figcaption style="text-align: center;">Chicken Jockey</figcaption>
 </figure>
