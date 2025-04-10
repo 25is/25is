@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Flint+and+STEEL;Chicken+jockey;I...+am+STEVE;The+Nether;This...+is+a+crafting+table;As+a+child%2C+I+yearned+for+the+mines;Big+ol'+red+ones;They+love+crushing+loaf;Water+bucket...+release!;Ender+pearl)](https://git.io/typing-svg)
 
-<img alt="flint and steel" src="https://media1.tenor.com/m/-cVyC1yYZCkAAAAd/minecraft-minecraft-movie.gif" style="height: 150px;"> <img src="https://media1.tenor.com/m/-cVyC1yYZCkAAAAd/minecraft-minecraft-movie.gif" style="height: 150px;">
+<img alt="flint and steel" src="https://media1.tenor.com/m/-cVyC1yYZCkAAAAd/minecraft-minecraft-movie.gif" style="height: 150px;">
 
 <img alt="chicken jockey" src="https://media.tenor.com/N2Jc-5N6GboAAAAM/they-want-me-to-fight-the-chicken-chicken-jockey-garett-garrison.gif" style="height: 150px;">
 
