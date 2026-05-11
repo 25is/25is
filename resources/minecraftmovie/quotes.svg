@@ -17,7 +17,7 @@
 
                 <path id='path0'>
                             <!-- Single line -->
-                                <animate id='d0' attributeName='d' begin='0s;d9.end'
+                                <animate id='d0' attributeName='d' begin='0s;d10.end'
                     dur='6000ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
                     </path>
@@ -153,6 +153,20 @@
         letter-spacing='normal'>
         <textPath xlink:href='#path9'>
             Ender pearl
+        </textPath>
+    </text>
+        <path id='path10'>
+                            <!-- Single line -->
+                                <animate id='d10' attributeName='d' begin='d9.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Fira Code", monospace' fill='#87E4FF' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path10'>
+            Comin&#039; in hot!
         </textPath>
     </text>
 </svg>
